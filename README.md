@@ -19,9 +19,8 @@
 ---
 
 ## 🌐 Encuéntrame en
-- [LinkedIn](https://www.linkedin.com/in/tu-usuario/)
-- [Twitter](https://twitter.com/tu-usuario)
-- ✉️ Correo: tuemail@ejemplo.com
+- [LinkedIn](www.linkedin.com/in/luisg-mlchz)
+- ✉️ Correo: guschzml@gmail.com
 
 ---
 
