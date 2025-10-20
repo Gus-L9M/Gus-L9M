@@ -2,7 +2,7 @@
 
 Soy estudiante de Física en la Facultad de Ciencias de la UNAM. Me apasiona el desarrollo y aplicación de modelos de inteligencia artificial y machine learning en la física, especialmente en el área de ciencia de materiales.
 
-He trabajado en proyectos relacionados con el reconocimiento de imágenes y audio mediante redes neuronales convolucionales, explorando cómo estas herramientas pueden aportar nuevas perspectivas al análisis científico.
+He trabajado en proyectos relacionados con el reconocimiento de imágenes y audio mediante redes neuronales convolucionales, explorando cómo estas herramientas pueden aportar nuevas perspectivas al análisis científico. Actualmente estoy incursionando en el mundo de NLP y LLMs, implementandolos mediante APIs en proyectos pequeños. 
 
 Además, disfruto de la electrónica como hobby, creando proyectos con Arduino y tecnologías del Internet de las Cosas (IoT).
 
