@@ -7,10 +7,6 @@ He trabajado en proyectos relacionados con el reconocimiento de imágenes y audi
 Además, disfruto de la electrónica como hobby, creando proyectos con Arduino y tecnologías del Internet de las Cosas (IoT).
 
 
-## 🌐 Encuéntrame en
-- [LinkedIn](www.linkedin.com/in/luisg-mlchz)
-- ✉️ Correo: guschzml@gmail.com
-
 ---
 
 ⭐️ Si te interesa colaborar en proyectos de IA aplicada a la ciencia, ¡contáctame!
