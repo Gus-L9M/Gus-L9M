@@ -8,7 +8,7 @@ Además, disfruto de la electrónica como hobby, creando proyectos con Arduino y
 
 
 ## 🌐 Encuéntrame en
-- [LinkedIn](luisg-mlchz)
+- [LinkedIn](www.linkedin.com/in/luisg-mlchz)
 - ✉️ Correo: guschzml@gmail.com
 
 ---
